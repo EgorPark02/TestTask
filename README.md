@@ -9,7 +9,6 @@
 </ol>
 
 <h2> Инструкция </h2>
-
 1. В файле 'ApplicationDbContext.cs' в строке 17 изменить поля *username* и *password* на свои данные из postgresql
 <img src="/sources/connectionString.png" alt="Строка подключения">
 2. Запустить приложение
