@@ -1525,11 +1525,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\egorp\\RiderProjects\\TestTask\\TestTask\\TestTask.csproj",
+      "projectUniqueName": "C:\\Users\\egorp\\RiderProjects\\TestTaskSecond\\TestTask\\TestTask.csproj",
       "projectName": "TestTask",
-      "projectPath": "C:\\Users\\egorp\\RiderProjects\\TestTask\\TestTask\\TestTask.csproj",
+      "projectPath": "C:\\Users\\egorp\\RiderProjects\\TestTaskSecond\\TestTask\\TestTask.csproj",
       "packagesPath": "C:\\Users\\egorp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\egorp\\RiderProjects\\TestTask\\TestTask\\obj\\",
+      "outputPath": "C:\\Users\\egorp\\RiderProjects\\TestTaskSecond\\TestTask\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\egorp\\AppData\\Roaming\\NuGet\\NuGet.Config",
