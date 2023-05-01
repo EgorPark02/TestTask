@@ -19,7 +19,7 @@
     * Npgsql (Ver 7.0.4)
     * Npgsql.EntityFrameworkCore.PostgreSQL (Ver 7.0.4)
 
-2. В файле 'ApplicationDbContext.cs' в строке 17 изменить поля *userid* и *password* на свои данные из postgresql
+2. В файле 'ApplicationDbContext.cs' в строке 17 изменить поля *username* и *password* на свои данные из postgresql
 <img src="/sources/connectionString.png" alt="Строка подключения">
 3. Запустить приложение
 
